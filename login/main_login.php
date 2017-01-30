@@ -28,7 +28,7 @@ if (isset($_SESSION['username'])) {
         </label>
         -->
         <button name="Submit" id="submit" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-
+        <a href="signup.php" class="btn btn-lg btn-primary btn-block">signup</a>
         <div id="message"></div>
       </form>
 
