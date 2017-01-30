@@ -31,7 +31,7 @@
         <input name="password2" id="password2" type="password" class="form-control" placeholder="Repeat Password">
 
         <button name="Submit" id="submit" class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>
-
+ 	<a href="main_login.php" class="btn btn-lg btn-primary btn-block">login</a>
         <div id="message"></div>
       </form>
 
